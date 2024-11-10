@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q2rPv7mA300=",
+  "dgSpecHash": "lOcLtW7MxXc=",
   "success": true,
-  "projectFilePath": "C:\\.net\\rem\\RemindMe\\remind\\remind.csproj",
+  "projectFilePath": "C:\\.net\\New folder\\Remind-me-back-end\\remind\\remind.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Home\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\Home\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

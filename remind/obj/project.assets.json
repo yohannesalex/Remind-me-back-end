@@ -1962,11 +1962,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\.net\\rem\\RemindMe\\remind\\remind.csproj",
+      "projectUniqueName": "C:\\.net\\New folder\\Remind-me-back-end\\remind\\remind.csproj",
       "projectName": "remind",
-      "projectPath": "C:\\.net\\rem\\RemindMe\\remind\\remind.csproj",
+      "projectPath": "C:\\.net\\New folder\\Remind-me-back-end\\remind\\remind.csproj",
       "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-      "outputPath": "C:\\.net\\rem\\RemindMe\\remind\\obj\\",
+      "outputPath": "C:\\.net\\New folder\\Remind-me-back-end\\remind\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
